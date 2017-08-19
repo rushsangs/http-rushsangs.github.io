@@ -1,10 +1,17 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hey there! My name is Rush, and this is Science for Stories. I'm going to use this blog to give weekly insights on my experience as a PhD student at the University of Utah in Salt Lake City.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## A not so brief bio about me
+I grew up in Mumbai, and started my undergrad at [Veermata Jijabai Technological Institute.](http://vjti.ac.in) I then had the amazing opportunity to move to the US and transfer to Rutgers University, which changed my life.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+At Rutgers, I majored in Computer Science, and got introduced to Computational Narratives through Prof. Mubbasir Kapadia. My first research project, LISA, was developed as a group research project under his guidance. I really enjoyed research and building tools to support storywriting, and decided to continue with research and pursue a PhD in Computer Science.
+
+Of course, there were other things happening in the background that supported my decision. Teaching is a major influence. I started an informal study group for Discrete Mathematics during my first semester at Rutgers, which actually became a thing due to the support of the course instructor, Prof. David Cash. Further, the Director of the Math and Science Learning Center, Dr. Mary Emenike reached out to me to ask if I was interested in being a Learning Assistant and conducting similar study groups formally through the Learning Center. That led to me learning more about pedagogy, collaborative learning and interactive teaching, which convinced me that Computer Science needs similar learning techniques and motivated me towards considering teaching Computer Science as a profession. I also had the opportunity to build my own one credit course titled Exploring Computer Science and teach it to freshmen at Rutgers as a Peer Instructor under the FIGS program!
+
+I also had various working opportunities. I worked through most of my undergraduate life as a part-time Software Developer at Rudraya Corporation, which gave me some experience as a web developer. My experience at Rudraya was a joy: I liked the work, but moreover, I enjoyed a social workplace, which formed a great support base for a recent immigrant with no friends in the country. Soon after, I got the opportunity to intern at JPMorgan Chase for a summer, which was an experience that taught me that a life as a software developer working in a large-scale company was not something I would enjoy. This pushed me to look for other options, and the life of a professor: researching on interesting problems, mentoring students, and impacting society, really got my attention and got me to consider pursuing a PhD.
+
+I also had the opportunity more recently to work with Disney Research, with my undergraduate mentor Mubbasir Kapadia. It was an amazing experience, and I had an amazing experience getting to see the exceptional research that is done in the department, and an organization with a great social culture. My research goals (currently) lie in improving the process of story generation by assisting storywriters, and be able to understand the story and it's characters, so that storywriters can interact with the world they build during the process of story creation itself.
